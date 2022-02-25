@@ -237,6 +237,7 @@ The React docs on JSX Gotchas may be good to know/review.
    
    
 5. ### Are you familiar with Flux?
+---
 
    Flux is an architectural pattern that enforces unidirectional data flow — its core purpose is to control derived data so that multiple components can interact 
    with that data without risking pollution.
@@ -316,6 +317,7 @@ The strict unidirectional flow of this Flux pattern enforces data stability, red
 
 
 6. ### What are stateless components?
+---
 
   If React components are essentially state machines that generate UI markup, then what are stateless components?
 
