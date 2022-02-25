@@ -32,7 +32,7 @@ Over the years, I have been in countless interviews as both the applicant and th
 | No. | Questions |
 |---- | ---------
 |1  | [What is React?](#what-is-react) |
-|2  | [How is it different from other JS frameworks?](#what-is-it-different-from-other-js-frameworks)|
+|2  | [How is it different from other JS frameworks?](#how-is-it-different-from-other-js-frameworks)|
 |3  | [What happens during the lifecycle of a React component?](#what-happens-during-the-lifecycle-of-a-react-component)|
 |4  | [What can you tell me about JSX?](#what-can-you-tell-me-about-jsx)|
 |5  | [Are you familiar with Flux?](#are-you-familiar-with-flux)|
@@ -109,9 +109,9 @@ Over the years, I have been in countless interviews as both the applicant and th
    
    At the highest level, React components have lifecycle events that fall into three general categories:
 
-    1. Initialization
-    2. State/Property Updates
-    3. Destruction
+   1. Initialization
+   2. State/Property Updates
+   3. Destruction
    
    
    Every React component defines these events as a mechanism for managing its properties, state, and rendered output. Some of these events only happen once, others 
