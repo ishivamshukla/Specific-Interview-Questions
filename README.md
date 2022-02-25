@@ -24,7 +24,6 @@ Go to [Coding Exercise](#coding-exercise) for coding specific questions
 |3  | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)|
 |4  | [What is JSON and its common operations](#what-is-json-and-its-common-operations)|
 |5  | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)|
-
 |99 | [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)|
 |100| [What are events](#what-are-events)|
 
@@ -99,8 +98,6 @@ Go to [Coding Exercise](#coding-exercise) for coding specific questions
       // If the result is a non-null object then use it otherwise just use the new instance.
       console.log(result && typeof result === 'object' ? result : newInstance);
       ```
-
-   
 
 96. ### What is the purpose of void 0
 
