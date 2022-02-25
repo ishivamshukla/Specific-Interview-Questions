@@ -119,7 +119,8 @@ Over the years, I have been in countless interviews as both the applicant and th
 
    For example, a component may need to add event listeners to the DOM when it first mounts. However, it should probably remove those event listeners when the 
    component unmounts from the DOM so that irrelevant processing does not occur.
-    ```
+     
+     ```
      class MyComponent extends React.Component {
       // when the component is added to the DOM...
       componentDidMount() {
@@ -135,7 +136,7 @@ Over the years, I have been in countless interviews as both the applicant and th
        console.log('The window has been resized!');
       }
      }
-   ```
+     ```
    
    **Low-Level Component Lifecycle**
    
@@ -152,14 +153,14 @@ Over the years, I have been in countless interviews as both the applicant and th
    For example, components will automatically re-render themselves any time their properties or state change. However, in some cases a component might not need 
    to update — so preventing the component from re-rendering might improve the performance of our application.
    
-     ```
+        ```
       class MyComponent extends React.Component {
-      // only re-render if the ID has changed!
-        shouldComponentUpdate(nextProps, nextState) {
-         return nextProps.id === this.props.id;
-        }
-      }
-   ```
+       // only re-render if the ID has changed!
+         shouldComponentUpdate(nextProps, nextState) {
+          return nextProps.id === this.props.id;
+         }
+       }
+       ```
 
    **[⬆ Back to Top](#table-of-contents)**
    
@@ -383,18 +384,18 @@ provided to it.
     );
   }
 }
-  ```
+```
   
   **Given the code defined above, can you identify two problems?**
   
   1. The constructor does not pass its props to the super class. It should include the following line:
 
-          ```
+           ```
           constructor(props) {
-             super(props);
-             // ...
+            super(props);
+            // ...
           }
-         ```
+          ```
     
    2. The event listener (when assigned via addEventListener()) is not properly scoped because ES2015 doesn’t provide autobinding. Therefore the developer can 
        re-assign clickHandler in the constructor to include the correct binding to this:
@@ -415,12 +416,11 @@ provided to it.
    To use this class, the candidate should import it into another class and use it like this:
     
     
-    ```
+      ```
     <MyComponent headerText="A list of paragraph tags">
       <p>First child.</p>
       <p>Any other <span>number</span> of children...</p>
     </MyComponent>
-   ```
-    
+     ```
     
    **[⬆ Back to Top](#table-of-contents)**
