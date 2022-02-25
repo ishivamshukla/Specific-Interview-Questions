@@ -1,6 +1,6 @@
 # # Behavioral & Cultural Interview Questions
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [SWhivam Shukla](https://twitter.com/itshivamshukla) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [Shivam Shukla](https://twitter.com/itshivamshukla) for technical updates.
 
 Software engineer interviewers ask behavioral/cultural questions to evaluate interviewee's soft skills, and also to decide whether the candidate is a cultural fit. 
 Make sure you've prepared great answers to these interview questions
