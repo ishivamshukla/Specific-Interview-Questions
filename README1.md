@@ -21,6 +21,7 @@ Make sure you've prepared great answers to these interview questions
 
 
 1. ### Tell me about yourself
+---
 
    "Tell me about yourself" is one of the most common and important interview questions. However, it can be daunting, as it's one you need to get right. After all, not only is it your first 
    impression on the interviewer, but 
@@ -44,6 +45,7 @@ Make sure you've prepared great answers to these interview questions
 
 
 2. ### Tell me what a productive day at work looks like to you
+---
 
 
 
@@ -57,7 +59,7 @@ Make sure you've prepared great answers to these interview questions
 
 
 3. ### Tell me about a time you failed. What is your biggest weakness?
-
+---
 
 
 
@@ -67,14 +69,14 @@ Make sure you've prepared great answers to these interview questions
 
 
 4. ### What's the most challenging problem you have faced and how did you solve it?
-
+---
 
 
 
 
 
 5. ### Where do you see yourself in 5 years?
-
+---
 
 
 
@@ -82,11 +84,11 @@ Make sure you've prepared great answers to these interview questions
 
 
 6. ### TWhy do you want to work here?
-
+---
 
 
 
 
 
 7. ### Why should we hire you?
-      
+---     
