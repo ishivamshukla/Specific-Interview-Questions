@@ -406,14 +406,14 @@ provided to it.
         // ...
       }
       ```
-    **Can you explain what the output of this class actually does? How would you use it in an application?**
+   **Can you explain what the output of this class actually does? How would you use it in an application?**
     
-    This class creates a <div /> element and attaches a click listener to it. 
+   This class creates a <div /> element and attaches a click listener to it. 
     The content of this component includes a <h2 /> element 
     that updates every time the user clicks on the parent <div />, as well as an <h3 /> 
     element containing a provided title and whatever child elements were passed to it.
     
-    To use this class, the candidate should import it into another class and use it like this:
+   To use this class, the candidate should import it into another class and use it like this:
     
     ```
     <MyComponent headerText="A list of paragraph tags">
