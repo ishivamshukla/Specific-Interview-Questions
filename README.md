@@ -10,7 +10,7 @@ Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
 ---
 
-- [💪🏻 React](#-React)
+ [💪🏻 React](#-React)
 ---
 
 In their 2020 developer survey, Stack Overflow noted that React.js is among the the most popular JavaScript libraries to date. In fact, out of all web frameworks, it's ranked at number 2, just behind jQuery!
