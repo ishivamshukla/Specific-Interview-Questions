@@ -31,9 +31,9 @@ Over the years, I have been in countless interviews as both the applicant and th
 
 | No. | Questions |
 |---- | ---------
-|1  | [What is React?](#what-is-react) |
-|2  | [How is it different from other JS frameworks?](#what-is-it-different-from-others-js-frameworks)|
-|3  | [What happens during the lifecycle of a React component?](#what-happens-during-the-lifecycle-of-a-react-component)|
+|1  | [What is React?](#what-is-react?) |
+|2  | [How is it different from other JS frameworks?](#what-is-it-different-from-others-js-frameworks?)|
+|3  | [What happens during the lifecycle of a React component?](#what-happens-during-the-lifecycle-of-a-react-component?)|
 |4  | [What can you tell me about JSX?](#what-can-you-tell-me-about-jsx)|
 |5  | [Are you familiar with Flux?](#are-you-familiar-with-flux?)|
 |6  | [What are stateless components?](#what-are-stateless-components?)|
