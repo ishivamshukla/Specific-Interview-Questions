@@ -37,7 +37,7 @@ Over the years, I have been in countless interviews as both the applicant and th
 |4  | [What can you tell me about JSX?](#what-can-you-tell-me-about-jsx)|
 |5  | [Are you familiar with Flux?](#are-you-familiar-with-flux)|
 |6  | [What are stateless components?](#what-are-stateless-components)|
-
+|7  | [Conclusion](conclusion)|
 
 
 
@@ -424,3 +424,17 @@ provided to it.
      ```
     
    **[⬆ Back to Top](#table-of-contents)**
+   
+   
+   
+ 7. ### Conclusion
+---
+
+Interviewing a React developer involves much more than just testing for React knowledge — you should also ask questions about JavaScript and about other nuances 
+more closely related to the project or job in question.
+
+This article attempted to cover some basic talking points that would demonstrate whether or not a developer has adequate understanding of React and its core concepts. 
+I hope you find it useful — **good luck!**
+
+
+  **[⬆ Back to Top](#table-of-contents)**
