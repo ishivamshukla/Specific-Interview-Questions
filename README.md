@@ -2,7 +2,7 @@
 Language-specific interview questions are key to evaluating a candidate's programming skills. Check out the questions that apply to your tech stacks and see if 
 your answers are on the right track.
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [Shivam Shukla](https://twitter.com/ishivamshukla) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [Shivam Shukla](https://twitter.com/itshivamshukla) for technical updates.
 
 Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
