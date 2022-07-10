@@ -431,7 +431,7 @@ provided to it.
 ---
 
 Interviewing a React developer involves much more than just testing for React knowledge — you should also ask questions about JavaScript and about other nuances 
-more closely related to the project or job in question.
+more closely related to the project or job in question. 
 
 This article attempted to cover some basic talking points that would demonstrate whether or not a developer has adequate understanding of React and its core concepts. 
 I hope you find it useful — **good luck!**
